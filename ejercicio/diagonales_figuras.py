@@ -1,6 +1,5 @@
 #Mini ejemplos
 #crear una matriz 2x2
-from traceback import print_tb
 
 matriz = [
     [1,2],
