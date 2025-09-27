@@ -2,106 +2,145 @@
 # NIVEL 1 - EJERCICIOS PRÁCTICOS
 # =========================
 
-# =========================
-# Nivel Fácil (1 - 10)
-# =========================
+# =========================================================
+# SUBTEMA 1: VARIABLES
+# =========================================================
 
+# 🔹 Nivel Fácil (1 - 10)
 print("Ejercicio 1")
-# Crea una variable llamada "nombre" y guarda tu nombre en ella. Luego muéstralo en pantalla.
+# Crea una variable llamada "nombre".
+# Asigna tu nombre a la variable.
+# Luego muéstrala en pantalla usando print().
+
+nombre = "Willian"
+print(nombre)
 
 print("Ejercicio 2")
-# Declara una variable "edad" con tu edad y muéstrala en pantalla.
+# Crea una variable llamada "edad".
+# Asigna tu edad a la variable.
+# Muestra el valor en pantalla usando print().
 
 print("Ejercicio 3")
-# Declara dos números y muestra su suma.
+# Declara dos variables numéricas.
+# Luego muestra la suma de ambas usando print().
 
 print("Ejercicio 4")
-# Crea una variable "pi" con el valor 3.1416 y muéstrala.
+# Declara una variable con un número decimal.
+# Muestra la variable en pantalla usando print().
 
 print("Ejercicio 5")
-# Declara tres variables: un entero, un flotante y una cadena. Muéstralos en pantalla.
+# Declara dos variables numéricas.
+# Muestra su multiplicación en pantalla usando print().
 
 print("Ejercicio 6")
-# Crea dos variables numéricas y muestra la resta entre ellas.
+# Declara una variable de tipo cadena con tu ciudad.
+# Muestra la variable en pantalla usando print().
 
 print("Ejercicio 7")
-# Declara dos números y muestra la multiplicación.
+# Declara dos números.
+# Muestra la resta de ambos usando print().
 
 print("Ejercicio 8")
-# Declara dos números y muestra la división.
+# Declara dos números.
+# Muestra la división de ambos usando print().
 
 print("Ejercicio 9")
-# Declara dos números y muestra el módulo (resto de la división).
+# Declara dos números.
+# Muestra la división entera y el resto (módulo) de ambos usando print().
 
 print("Ejercicio 10")
-# Pide al usuario que ingrese su nombre y muéstralo con un saludo.
+# Declara tres variables numéricas.
+# Muestra la suma y el promedio de las tres variables usando print().
 
 
-# =========================
-# Nivel Intermedio (11 - 20)
-# =========================
-
+# 🔹 Nivel Intermedio (11 - 20)
 print("Ejercicio 11")
-# Pide al usuario su edad y muestra cuántos años tendrá dentro de 5 años.
+# Declara tres variables y muéstralas todas en una línea usando print().
 
 print("Ejercicio 12")
-# Declara dos números y muestra su división entera (//).
+# Cambia el valor de una variable.
+# Muestra el valor antes y después del cambio usando print().
 
 print("Ejercicio 13")
-# Declara dos números y muestra el resultado de elevar el primero al segundo (**).
+# Declara una variable y usa otra para modificarla.
+# Muestra el resultado final usando print().
 
 print("Ejercicio 14")
-# Pide al usuario su nombre y edad y muestra un mensaje personalizado.
+# Declara una variable booleana.
+# Muestra su valor en pantalla usando print().
 
 print("Ejercicio 15")
-# Crea una variable booleana que indique si hoy es lunes y muéstrala.
+# Declara varias variables en una sola línea.
+# Muestra todas las variables en pantalla usando print().
 
 print("Ejercicio 16")
-# Declara dos números y muestra el promedio.
+# Declara una variable numérica.
+# Crea otra variable que sea el doble de la primera.
+# Muestra ambas usando print().
 
 print("Ejercicio 17")
-# Convierte un número flotante en entero y muéstralo.
+# Declara tres variables numéricas.
+# Calcula su suma y su producto.
+# Muestra ambos resultados usando print().
 
 print("Ejercicio 18")
-# Convierte un número entero en flotante y muéstralo.
+# Declara dos cadenas.
+# Concátentalas y muestra el resultado usando print().
 
 print("Ejercicio 19")
-# Declara una variable con un texto y muestra cuántos caracteres tiene usando len().
+# Declara una cadena.
+# Repítela 3 veces en pantalla usando print().
 
 print("Ejercicio 20")
-# Pide un número al usuario y muestra el doble de ese número.
+# Declara una variable y cámbiale el tipo de dato a otra variable.
+# Muestra los tipos de ambas usando print().
 
 
-# =========================
-# Nivel Avanzado (21 - 30)
-# =========================
-
+# 🔹 Nivel Avanzado (21 - 30)
 print("Ejercicio 21")
-# Pide dos números al usuario y muestra su suma, resta, multiplicación y división.
+# Declara varias variables.
+# Crea una operación combinada usando todas ellas.
+# Muestra el resultado final usando print().
 
 print("Ejercicio 22")
-# Pide un número al usuario y muestra si es par o impar (usa el operador %).
+# Declara variables de distintos tipos.
+# Muestra el tipo de cada variable usando la función type().
 
 print("Ejercicio 23")
-# Declara una variable con tu año de nacimiento y calcula tu edad actual.
+# Pide al usuario su nombre y edad.
+# Almacena en variables y muestra un mensaje personalizado.
 
 print("Ejercicio 24")
-# Pide tres números al usuario y muestra el promedio.
+# Declara una variable numérica.
+# Calcula el doble y la mitad de su valor.
+# Muestra los resultados usando print().
 
 print("Ejercicio 25")
-# Pide al usuario su nombre y repítelo 3 veces en pantalla.
+# Declara una variable de tipo cadena.
+# Muestra el primer y último carácter usando print().
 
 print("Ejercicio 26")
-# Pide al usuario un número y muestra su cuadrado y su cubo.
+# Declara varias variables.
+# Crea un mensaje concatenando texto y números.
+# Muestra el mensaje usando print().
 
 print("Ejercicio 27")
-# Declara una variable con una cadena y muestra solo su primera letra.
+# Declara una variable.
+# Cámbiale el valor varias veces.
+# Muestra cada cambio usando print().
 
 print("Ejercicio 28")
-# Declara una variable con una cadena y muestra su última letra.
+# Declara una variable booleana.
+# Cambia su valor usando not.
+# Muestra antes y después usando print().
 
 print("Ejercicio 29")
-# Pide al usuario dos palabras y muéstralas unidas en una sola cadena.
+# Declara una variable.
+# Usa otra variable para hacer una operación combinada.
+# Muestra el resultado final usando print().
 
 print("Ejercicio 30")
-# Pide al usuario un número y muestra el resultado de sumarle 10, restarle 5 y multiplicarlo por 2.
+# Declara tres variables.
+# Crea un mensaje final combinando todas las variables.
+# Muestra el mensaje usando print().
+
