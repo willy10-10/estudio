@@ -20,58 +20,114 @@ print("Ejercicio 2")
 # Asigna tu edad a la variable.
 # Muestra el valor en pantalla usando print().
 
+edad = 19
+print(edad)
+
 print("Ejercicio 3")
 # Declara dos variables numéricas.
 # Luego muestra la suma de ambas usando print().
+
+num1 = 10
+num2 = 20
+print(num1 + num2)
 
 print("Ejercicio 4")
 # Declara una variable con un número decimal.
 # Muestra la variable en pantalla usando print().
 
+decimal = 12.5
+print(decimal)
+
 print("Ejercicio 5")
 # Declara dos variables numéricas.
 # Muestra su multiplicación en pantalla usando print().
+
+num1 = 12
+num2 = 10
+print(num1 * num2)
 
 print("Ejercicio 6")
 # Declara una variable de tipo cadena con tu ciudad.
 # Muestra la variable en pantalla usando print().
 
+ciudad = "Arequipa"
+print(ciudad)
+
 print("Ejercicio 7")
 # Declara dos números.
 # Muestra la resta de ambos usando print().
+
+num1 = 10
+num2 = 2
+print(num1 - num2)
 
 print("Ejercicio 8")
 # Declara dos números.
 # Muestra la división de ambos usando print().
 
+num1 = 10
+num2 = 4
+print(num1 / num2)
+
 print("Ejercicio 9")
 # Declara dos números.
 # Muestra la división entera y el resto (módulo) de ambos usando print().
+
+num1 = 100
+num2 = 90
+print(int(num1 / num2))
+print(num1 % num2)
 
 print("Ejercicio 10")
 # Declara tres variables numéricas.
 # Muestra la suma y el promedio de las tres variables usando print().
 
+num1 = 10
+num2 = 20
+num3 = 30
+print((num1 + num2 + num3)/3)
 
 # 🔹 Nivel Intermedio (11 - 20)
 print("Ejercicio 11")
 # Declara tres variables y muéstralas todas en una línea usando print().
 
+numero = 12
+nombre = "Willian"
+ciudad = "Arequipa"
+print(numero,nombre,ciudad)
+
 print("Ejercicio 12")
 # Cambia el valor de una variable.
 # Muestra el valor antes y después del cambio usando print().
+
+numero = 12
+print(numero)
+numero = "Willian"
+print(numero)
 
 print("Ejercicio 13")
 # Declara una variable y usa otra para modificarla.
 # Muestra el resultado final usando print().
 
+numero = 120
+print(numero)
+nombre = "Willian"
+numero = nombre
+print(numero)
+
 print("Ejercicio 14")
 # Declara una variable booleana.
 # Muestra su valor en pantalla usando print().
 
+booleana = True
+print(booleana)
+
 print("Ejercicio 15")
 # Declara varias variables en una sola línea.
 # Muestra todas las variables en pantalla usando print().
+
+variables = "Willian",12,True,12.5
+print(variables)
 
 print("Ejercicio 16")
 # Declara una variable numérica.
