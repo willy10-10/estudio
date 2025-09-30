@@ -1,12 +1,3 @@
-# ============================================================
-# ✅ SOLUCIONES — TEMA 2: EXPRESIONES, OPERACIONES Y OPERADORES LÓGICOS
-# ============================================================
-# Nota:
-# Cada ejercicio incluye su enunciado como comentario de varias líneas
-# para que sea más fácil leer y entender antes de ejecutar.
-# ============================================================
-
-
 # -------------------------
 # 📌 EJERCICIOS BÁSICOS (1–10)
 # -------------------------

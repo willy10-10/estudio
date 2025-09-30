@@ -1,13 +1,3 @@
-# ============================================================
-# ✅ SOLUCIONES — TEMA 1: INTRODUCCIÓN A PYTHON Y VARIABLES
-# ============================================================
-# Nota:
-# Cada ejercicio tiene su enunciado escrito en comentarios.
-# El objetivo de este tema es aprender a usar variables, entrada/salida
-# de datos con input() y la función print().
-# ============================================================
-
-
 # -------------------------
 # 📌 EJERCICIOS BÁSICOS (1–5)
 # -------------------------
